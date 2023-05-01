@@ -9,6 +9,7 @@ _**Using Conda**_
 4. Go in the project directory and install requirements using command:
 <ul>
   <li>Requirements</li>
+  
        pip install -r requirements.txt
 </ul>
 5. Go in the credentials.yml file and edit your facebook credentials in it. (Username and Password)
