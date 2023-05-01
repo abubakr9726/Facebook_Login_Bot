@@ -1,0 +1,4 @@
+selenium==4.6.0
+requests==2.27.1
+schedule
+pyyaml==6.0
